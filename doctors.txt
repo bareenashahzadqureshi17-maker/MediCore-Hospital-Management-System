@@ -1,3 +1,2 @@
-1,Dr. Sara Khan,Cardiology,03111234567,doc456,1500
-2,Dr. Ali Raza,Dermatology,03221234567,doctor2,1200
-3,Bareena ,Cardiology,081928128,1233433,1122
+1,Dr. Sara Khan,Cardiology,03111234567,doc456,1500.00
+2,Dr. Ali Raza,Dermatology,03221234567,doctor2,1200.00
